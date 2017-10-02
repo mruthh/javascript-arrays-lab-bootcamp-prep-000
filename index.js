@@ -3,4 +3,3 @@ function destructivelyAppendKitten(arr) {
   arr.push("tiny kitten");
   return arr;
 }
-
